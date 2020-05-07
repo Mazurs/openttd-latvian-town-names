@@ -3,8 +3,8 @@ NMLC=$(which nmlc)
 TAR=$(which tar)
 ROOT=$(dirname `readlink -f $0`)
 VERSION=$(grep VERSION "${ROOT}/src/custom_tags.txt" | cut -d':' -f2)
-NAME="lithuanian_town_names"
-BUILD="Lithuanian_Town_Names-${VERSION}"
+NAME="latvian_town_names"
+BUILD="Latvian_Town_Names-${VERSION}"
 
 # Preliminary checks.
 if [ -z ${NMLC} ]; then
