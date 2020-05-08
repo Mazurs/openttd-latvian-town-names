@@ -1,5 +1,5 @@
-##grflangid 0x2C
-STR_GRF_NAME                    :Latviešu ciemu nosaukumi {VERSION}
+##grflangid 0x2A
+STR_GRF_NAME                    :Latviešu ciemu nosaukumi
 STR_GRF_DESCRIPTION             :{}{ORANGE}Latviešu ciemu nosaukumi{}{SILVER}Šis paplašinājums pievieno iespēju izmantot Latvijā esošu pilsētu, ciemu miestu nosaukumus.{}{}{BLACK}Autori: {SILVER}{AUTHORS}{}{BLACK}Licenze: {SILVER}{LICENSE}
 STR_GRF_URL                     :{GIT_URL}
 

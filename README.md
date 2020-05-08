@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-OpenTTD Lithuanian Town Names
+OpenTTD Latvian Town Names
 ========================================================================
 ------------------------------------------------------------------------
 
@@ -15,8 +15,7 @@ OpenTTD Lithuanian Town Names
 1. Description
 --------------
 
-This NewGRF provides name of existing and possible Lithuanian village,
-town and city names to OpenTTD.
+This NewGRF provides name of existing Latvian village, town and city names to OpenTTD.
 
 2. Requirements
 ---------------
@@ -33,15 +32,15 @@ Please use [BaNaNaS](http://bananas.openttd.org) for installation.
 
 - [Install NML with all the requirements](http://newgrf-specs.tt-wiki.net/wiki/NML:Getting_started)
 - Download the latest release from
-<https://github.com/knutux/openttd-lithuanian-town-names/releases/latest>
+<https://github.com/Mazurs/openttd-latvian-town-names>
 and extract the archive to the chosen destination directory.
 
     Development files can be browsed via web browser or can be optained
-    from a git repository <https://github.com/knutux/openttd-lithuanian-town-names>.
+    from a git repository <https://github.com/Mazurs/openttd-latvian-town-names>.
 
     *Note: You can also get the sources using the
     [GIT](http://git-scm.com/book/en/Getting-Started-Installing-Git) and
-    cloning the `https://github.com/knutux/openttd-lithuanian-town-names.git` repository.*
+    cloning the `https://github.com/Mazurs/openttd-latvian-town-names.git` repository.*
 
 - Build the NewGRF:
 
@@ -54,7 +53,7 @@ and extract the archive to the chosen destination directory.
 ----------------
 
 Execute OpenTTD. Choose *NewGRF Settings* and enable the NewGRF. Then
-choose *Game Options* and select *Lithuanian* from *Town names*
+choose *Game Options* and select *Latvian* from *Town names*
 selection menu.
 
 6. License
@@ -63,15 +62,15 @@ selection menu.
 This software is licensed as described in the file `LICENSE.md`, which
 You should have received as part of this distribution. The terms are
 also available at
-<https://github.com/knutux/openttd-lithuanian-town-names/blob/master/LICENSE.md>.
+<https://github.com/Mazurs/openttd-latvian-town-names/blob/master/LICENSE.md>.
 
 7. Support
 ----------
 
 Issue tracker can be found at
-<https://github.com/knutux/openttd-lithuanian-town-names/issues>.
+<https://github.com/Mazurs/openttd-latvian-town-names/issues>.
 
 8. Authors
 ----------
 
-- Andrius R. (knutux@gmail.com)
+- Rūdolfs M. (rudolfs.mazurs@gmail.com)

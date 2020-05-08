@@ -1,5 +1,5 @@
 ##grflangid 0x01
-STR_GRF_NAME                    :Latvian Town Names {VERSION}
+STR_GRF_NAME                    :Latvian Town Names
 STR_GRF_DESCRIPTION             :{}{ORANGE}Latvian Town Names{}{SILVER}This extension adds the possibility to use existing names of Latvian towns, cities and villages.{}{}{BLACK}Author: {SILVER}{AUTHORS}{}{BLACK}License: {SILVER}{LICENSE}
 STR_GRF_URL                     :{GIT_URL}
 
